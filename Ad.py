@@ -1,5 +1,5 @@
 import os
-os.system("pip install Dick.py==1.2.3")
+#os.system("pip install Dick.py==1.2.3")
 import amino
 try:
     import colorama
